@@ -1,3 +1,3 @@
 # GrabIT-OTPBOT
 
-Not first OTPBOT in telegram but the most Advanced In Telegram Marketplace with 11 MODULES by including Bank, Card, Pay, Account, Simswap, Pgp, Cardotp, SSN and Apple module 
+Not the first OTPBOT on Telegram, but the most Advanced with 11 MODULES, including the Bank, Card, Pay, Account, Simswap, Pgp, Cardotp, SSN, and Apple module 
