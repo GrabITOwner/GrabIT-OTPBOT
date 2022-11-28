@@ -9,7 +9,7 @@ Reach out to https://t.me/GrabIT_OTP to see the bot in action.
 ### Why GrabIT-OTPBOT
 ---
 
-• Custom Caller ID ( can use any company or bank)\
+• Custom Caller ID ( can use any company or bank)
 
 • Topnotch Human like voice
 
